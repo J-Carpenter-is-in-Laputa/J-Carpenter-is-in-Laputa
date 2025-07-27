@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 <img
     align="left"
@@ -7,7 +7,7 @@
     width="225"
 />
 
-## hi!
+## welcome
 
 Looking for full time employment<br>
 <sub>email: jcarpentere@gmail.com <br></sub>
