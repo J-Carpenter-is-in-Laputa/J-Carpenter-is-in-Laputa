@@ -9,5 +9,5 @@
 
 ## welcome
 
-Looking for full time employment<br>
+Feel free to contact<br>
 <sub>email: jcarpentere@gmail.com <br></sub>
