@@ -4,8 +4,7 @@
     alt="pretend this is a stamp"
     width="100"
 />
-## Hi
-## welcome
+
 
 <img
     align="left"
@@ -13,6 +12,10 @@
     alt='"what is an ubuntu" idk'
     width="225"
 />
+
+## Hi, welcome
+
+
 <sub>email: jcarpentere@gmail.com <br></sub>
 
 ```diff
@@ -21,29 +24,34 @@
 
 ```
 
+
+<!--- two images were removed--->
+<!--- no longer in use
 <div align="left">
   <img
     src="assets/wazzup.webp"
-    alt='"what is an ubuntu" idk'
+    alt='"pizza" idk'
     width="225"
     height="60"
 />
 </div>
-
+--->
+<!--- no longer in use
 <div align="center">
   <img 
     src="assets/cool.webp" 
-    alt="pretend this is a stamp" 
+    alt="sunglasses" 
     width="225" 
     height="60"
   />
 </div>
+--->
 
-<div align="right">
+<div align="center">
   <img 
     src="assets/worm.webp" 
-    alt="pretend this is a stamp" 
-    width="225" 
-    height="60"
+    alt="worm" 
+    width="275" 
+    height="80"
   />
 </div>
