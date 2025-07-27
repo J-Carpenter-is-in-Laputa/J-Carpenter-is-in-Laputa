@@ -1,5 +1,6 @@
 
 ## Hi
+## welcome
 
 <img
     align="left"
@@ -7,9 +8,8 @@
     alt='"what is an ubuntu" idk'
     width="225"
 />
+<sub>email: jcarpentere@gmail.com <br></sub>
+
 ```diff
 
-## welcome
-
-+ Feel free to contact<br>
-<sub>email: jcarpentere@gmail.com <br></sub>
++ Feel free to contact
