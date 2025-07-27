@@ -1,4 +1,3 @@
-```diff
 
 ## Hi
 
@@ -8,6 +7,7 @@
     alt='"what is an ubuntu" idk'
     width="225"
 />
+```diff
 
 ## welcome
 
