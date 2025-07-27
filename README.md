@@ -11,4 +11,3 @@
 
 Looking for full time employment<br>
 <sub>email: jcarpentere@gmail.com <br></sub>
-<span class="lavender">test</span>
